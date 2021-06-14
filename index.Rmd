@@ -2,4 +2,4 @@
 title: "Welcome"
 ---
 
-Hello, everyone 2!
+Hello, Github!
