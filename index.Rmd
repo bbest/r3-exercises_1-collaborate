@@ -2,4 +2,4 @@
 title: "Welcome"
 ---
 
-Hello, everyone!
+Hello, RStudio 2!
